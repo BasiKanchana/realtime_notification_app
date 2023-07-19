@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real_time_notification_app/static/css/main.e46aaf72.css",
+    "main.js": "/real_time_notification_app/static/js/main.12389234.js",
+    "index.html": "/real_time_notification_app/index.html",
+    "main.e46aaf72.css.map": "/real_time_notification_app/static/css/main.e46aaf72.css.map",
+    "main.12389234.js.map": "/real_time_notification_app/static/js/main.12389234.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46aaf72.css",
+    "static/js/main.12389234.js"
+  ]
+}
